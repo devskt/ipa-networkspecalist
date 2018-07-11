@@ -1,0 +1,1 @@
+# web 「ネスペイージス (http://www.infraexpert.com/info/netspecial1.html)」の進捗管理

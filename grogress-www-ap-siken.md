@@ -1,0 +1,1 @@
+# web 「応用情報技術者 ドットコム (https://www.ap-siken.com/)」の進捗管理
