@@ -21,4 +21,11 @@ hogehoge
 
 ## 対策方法
 
+* 午前対策
+1. 書籍 「ポケットスタディ 硬度試験共通 午前Ⅰ・Ⅱ」
+2. web 「ネスペイージス (http://www.infraexpert.com/info/netspecial1.html) 」
+3. web 「応用情報技術者 ドットコム (https://www.ap-siken.com/) 」
+4. web 「ネットワークスペシャリスト ドットコム (https://www.nw-siken.com/) 」
+
+* 午後対策  
 hugahuga
