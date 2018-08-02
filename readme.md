@@ -17,7 +17,8 @@ issueにて管理する。
 
 ## スケジュール
 
-hogehoge
+google calendarで管理
+issueのMilestonesに追記
 
 ## 対策方法
 
@@ -28,4 +29,4 @@ hogehoge
 4. web 「ネットワークスペシャリスト ドットコム (https://www.nw-siken.com/) 」
 
 * 午後対策  
-hugahuga
+ネスペのシリーズ
