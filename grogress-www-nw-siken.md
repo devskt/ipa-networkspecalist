@@ -8,3 +8,17 @@ nw2 平成22年秋 20/25 (80%) A- 26m
 RSVP, SDP, SPF(Sender Policy Framework)
 
 --------------
+nw2 平成23年秋 21/25 (84%) A- 32m
+LSAタイプ1…Router-LSA(ルータLSA)
+LSAタイプ2…Network-LSA(ネットワークLSA)
+LSAタイプ3…(Network-)Summary-LSA(サマリーLSA)
+LSAタイプ4…(ASBR-)Summary-LSA(AS境界ルータサマリLSA)
+LSAタイプ5…AS-External-LSA(AS外部LSA)
+アーラン
+IEEE802.3-2005(プリアンブル)
+IPv6のマルチキャストアドレス
+チェックサムフィールド
+R値
+
+--------------
+
