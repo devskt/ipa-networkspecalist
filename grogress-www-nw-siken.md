@@ -30,3 +30,15 @@ DNS amp
 パイプラインの処理時間(I＋D－1)×P
 
 --------------
+nw2 平成26年秋 22/25 (80%) A- 45m
+
+PLC(Power Line Communications：電力線搬送通信)
+アーラン
+ICMPv6
+RIPng
+IGMPv2
+DHCPv6
+RSVP
+IDN：Internationalized Domain Name
+POP before SMTP
+埋込バグ数と総バグ数
