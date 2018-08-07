@@ -42,3 +42,8 @@ RSVP
 IDN：Internationalized Domain Name
 POP before SMTP
 埋込バグ数と総バグ数
+
+--------------
+nw2 平成27年秋 21/25 (84%) A- 13m
+
+--------------
