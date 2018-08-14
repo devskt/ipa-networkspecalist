@@ -1,1 +1,57 @@
 # web 「ネットワークスペシャリスト ドットコム (https://www.nw-siken.com/) 」の進捗管理
+
+--------------
+nw2 平成21年秋 23/25 (92%) A- 21m
+
+--------------
+nw2 平成22年秋 20/25 (80%) A- 26m
+RSVP, SDP, SPF(Sender Policy Framework)
+
+--------------
+nw2 平成23年秋 21/25 (84%) A- 32m
+LSAタイプ1…Router-LSA(ルータLSA)
+LSAタイプ2…Network-LSA(ネットワークLSA)
+LSAタイプ3…(Network-)Summary-LSA(サマリーLSA)
+LSAタイプ4…(ASBR-)Summary-LSA(AS境界ルータサマリLSA)
+LSAタイプ5…AS-External-LSA(AS外部LSA)
+アーラン
+IEEE802.3-2005(プリアンブル)
+IPv6のマルチキャストアドレス
+チェックサムフィールド
+R値
+
+--------------
+nw2 平成24年秋 21/25 (84%) A- 21m
+MDA(Model Driven Architecture)
+
+--------------
+nw2 平成25年秋 22/25 (88%) A- 31m
+DNS amp
+パイプラインの処理時間(I＋D－1)×P
+
+--------------
+nw2 平成26年秋 22/25 (80%) A- 45m
+
+PLC(Power Line Communications：電力線搬送通信)
+アーラン
+ICMPv6
+RIPng
+IGMPv2
+DHCPv6
+RSVP
+IDN：Internationalized Domain Name
+POP before SMTP
+埋込バグ数と総バグ数
+
+--------------
+nw2 平成27年秋 21/25 (84%) A- 13m
+
+--------------
+nw2 平成28年秋 23/25 (92%) A- 18m
+
+プライバシーセパレータ
+
+--------------
+nw2 平成29年秋 19/25 (76%) A- 21m
+
+--------------
