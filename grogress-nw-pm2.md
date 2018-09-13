@@ -18,3 +18,8 @@ FlowMod
 HTTP HTTPS URL コンテンツフィルタリング MTA MUA connectメソッド 標的型メール SPF SPFレコード SSLセッション サーバ証明書 ルート証明書 プリマスタシークレット 中間者攻撃 パケットフィルタリング INフィルタ OUTフィルタ 経路集約 ICMP TCPコネクション プロキシサーバ 利用者認証 バックドアの発見(C&Cサーバ接続時に認証失敗ログ) ファイル・URLは開かない 送信元確認 担当者に報告 全社共有 
 
 ---------------------------
+平成27年秋 午後Ⅱ 問1 56/100 116m48s
+
+LB FW Active-standby リンクアグリケーション チーミング デフォルトゲートウェイ 仮想IPアドレス NAT HTTP CoAP UDP HTTPキャッシュ HTTPレスポンス HTTPヘッダ If-Modified-Since Last-Modified GETリクエスト フォワードプロキシ リバースプロキシ FQDN ZigBee IEEE802.3 IEEE802.15.4 ターンアラウンドタイム ブレードサーバ TCPコネクション 同時コネクション数 パイプライン HTTP/1.1 
+
+---------------------------
