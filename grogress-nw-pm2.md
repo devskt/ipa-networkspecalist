@@ -23,3 +23,6 @@ HTTP HTTPS URL コンテンツフィルタリング MTA MUA connectメソッド 
 LB FW Active-standby リンクアグリケーション チーミング デフォルトゲートウェイ 仮想IPアドレス NAT HTTP CoAP UDP HTTPキャッシュ HTTPレスポンス HTTPヘッダ If-Modified-Since Last-Modified GETリクエスト フォワードプロキシ リバースプロキシ FQDN ZigBee IEEE802.3 IEEE802.15.4 ターンアラウンドタイム ブレードサーバ TCPコネクション 同時コネクション数 パイプライン HTTP/1.1 
 
 ---------------------------
+平成27年秋 午後Ⅱ 問2 54/100 90m00s
+
+IPv4 IPアドレス枯渇 キャリアグレードNAT(CGN) NAT444 グローバルIPアドレス シェアードアドレス プライベートIPアドレス NAT NAPT TCP UDP ポート数(16ビット) VPN IPsec AH(IP50) ESP(IP51) IKE(UDP500) トランスポートモード トンネルモード ISAKMP IPsecNATトラバーサル ESPヘッダ ESPトレーラ ESP認証データ IEEE802.1Q VLAN VLAN数(12ビット-2) オーバレイネットワーク VXLAN マルチキャスト クラスD フラッディング マルチキャストIPアドレス マルチキャストMACアドレス IGMP IGMPjoin IGMPleave IGMPスヌーピング MACアドレステーブル VNI(24ビット) VTEP FTP アクティブモード パッシブモード 
