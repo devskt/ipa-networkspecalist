@@ -26,3 +26,12 @@ LB FW Active-standby リンクアグリケーション チーミング デフォ
 平成27年秋 午後Ⅱ 問2 54/100 90m00s
 
 IPv4 IPアドレス枯渇 キャリアグレードNAT(CGN) NAT444 グローバルIPアドレス シェアードアドレス プライベートIPアドレス NAT NAPT TCP UDP ポート数(16ビット) VPN IPsec AH(IP50) ESP(IP51) IKE(UDP500) トランスポートモード トンネルモード ISAKMP IPsecNATトラバーサル ESPヘッダ ESPトレーラ ESP認証データ IEEE802.1Q VLAN VLAN数(12ビット-2) オーバレイネットワーク VXLAN マルチキャスト クラスD フラッディング マルチキャストIPアドレス マルチキャストMACアドレス IGMP IGMPjoin IGMPleave IGMPスヌーピング MACアドレステーブル VNI(24ビット) VTEP FTP アクティブモード パッシブモード 
+
+---------------------------
+平成28年秋 午後Ⅱ 問1 76/100 120m24s
+
+HTTP HTTPS WebSocket IP-PBX マルチホーミング イントラ プライベートIPアドレス グローバルIPアドレス NAT NAPT 送信元IPアドレス 送信元ポート番号 ポート数(65536) ウェルノウンポート(Well-Known) FW フィルタリング 名雨解決 ドメイン権限 DNS DNSラウンドロビン スケールアウト ゾーンファイル DNSクエリ LB STUN WebRTC W3C IETF ホールパンチ SDP SIP B2BUA FQDN Aレコード 切り戻し 
+
+https://gist.github.com/voluntas/975bfa230e513d146965
+
+---------------------------
