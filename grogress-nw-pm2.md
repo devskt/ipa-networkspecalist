@@ -30,11 +30,16 @@ IPv4 IPアドレス枯渇 キャリアグレードNAT(CGN) NAT444 グローバ�
 ---------------------------
 平成28年秋 午後Ⅱ 問1 76/100 120m24s
 
-HTTP HTTPS WebSocket IP-PBX マルチホーミング イントラ プライベートIPアドレス グローバルIPアドレス NAT NAPT 送信元IPアドレス 送信元ポート番号 ポート数(65536) ウェルノウンポート(Well-Known) FW フィルタリング 名雨解決 ドメイン権限 DNS DNSラウンドロビン スケールアウト ゾーンファイル DNSクエリ LB STUN WebRTC W3C IETF ホールパンチ SDP SIP B2BUA FQDN Aレコード 切り戻し 
+HTTP HTTPS WebSocket IP-PBX マルチホーミング イントラ プライベートIPアドレス グローバルIPアドレス NAT NAPT 送信元IPアドレス 送信元ポート番号 ポート数(65536) ウェルノウンポート(Well-Known) FW フィルタリング 名前解決 ドメイン権限 DNS DNSラウンドロビン スケールアウト ゾーンファイル DNSクエリ LB STUN WebRTC W3C IETF ホールパンチ SDP SIP B2BUA FQDN Aレコード 切り戻し 
 
 https://gist.github.com/voluntas/975bfa230e513d146965
 
 ---------------------------
-平成28年秋 午後Ⅱ 問1 51/100 118m50s
+平成28年秋 午後Ⅱ 問2 51/100 118m50s
 
 WAN回線 広域イーサネット プロキシ インターネットVPN OSPF IPsec IKE ネゴシエーション SA SPI SP(セキュリティポリシー) BYPASS DISCARD PROTECT セレクタ IKEフェーズ1 IKEフェーズ2 ISAKMP ISAKMP-SA メインモード アグレッシブモード トンネルモード トランスポートモード Ipsec-SA カプセル化 リンクステート情報(LSA) GRE(L3:1436) L2TP(L2:1414) IPブロードキャスト IPマルチキャスト 経路情報 MTU(1500) PPPフレーム LAC LNS PPPoE GRE-over-IPsec L2TP-over-IPsec MSS 専用線 VRRP コスト値 IPフラグメンテーション(断片化) Rekey ESPヘッダ ESPトレーラ ESP認証データ 改ざん ジャンボフレーム VLAN 仮想IPアドレス マスタルータ
+
+---------------------------
+平成28年秋 午後Ⅱ 問1 43/100 130m00s
+
+SDN OpenFlow クラウド IaaS ISP FW LB NAT OFC OFS PacketIn PacketOut FlowMod イーサネットタイプ LLDP トランク接続 タグVLAN VLAN_ID SYNパケット ブロードキャスト通信 ユニキャスト通信 ARP_Request ARP_Reply FQDN DNS CDN オリジンサーバ エッジサーバ HTTPリクエスト キャッシュ プロキシ DNSフルリゾルバ キャッシュDNSサーバ ゾーンファイル $TTL $ORIGIN SOA A CNAME EDNS-Client-Subnet GETリクエスト TAT(ターンアラウンドタイム) バックアップ対策 運用マニュアル リソースレコード 名前解決 DR スケールアウト 障害復旧時間(RTO) 
