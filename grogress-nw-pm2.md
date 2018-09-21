@@ -43,3 +43,8 @@ WAN回線 広域イーサネット プロキシ インターネットVPN OSPF IP
 平成28年秋 午後Ⅱ 問1 43/100 130m00s
 
 SDN OpenFlow クラウド IaaS ISP FW LB NAT OFC OFS PacketIn PacketOut FlowMod イーサネットタイプ LLDP トランク接続 タグVLAN VLAN_ID SYNパケット ブロードキャスト通信 ユニキャスト通信 ARP_Request ARP_Reply FQDN DNS CDN オリジンサーバ エッジサーバ HTTPリクエスト キャッシュ プロキシ DNSフルリゾルバ キャッシュDNSサーバ ゾーンファイル $TTL $ORIGIN SOA A CNAME EDNS-Client-Subnet GETリクエスト TAT(ターンアラウンドタイム) バックアップ対策 運用マニュアル リソースレコード 名前解決 DR スケールアウト 障害復旧時間(RTO) 
+
+---------------------------
+平成28年秋 午後Ⅱ 問2 60/100 113m01s
+
+Wi-Fi プロキシ IEEE802.11n IEEE802.11ac 2.4GHz 5GHz SSID ESSID ANY接続 SSID隠蔽 MACアドレスフィルタリング IEEE802.1X認証 WEP RC4 IV 共通鍵暗号方式 WPA TKIP WPA2 AES CCMP IEEE802.11i ストリーム暗号 ブロック暗号 エンタープライズモード パーソナルモード 事前共有鍵(PSK) 認証サーバ PMK(Pairwise Master Key) MACアドレス 事前認証 ハンドオーバ XOR 復号 EAP-TLS RADIUS ディジタル証明書 チャンネルボンディング MIMO(Multiple Input Multiple Output) WLC(無線LANコントローラ) 利用者認証 認証VLAN PoE(Power over Ethernet) 15.4W IEEE802.3af PoE+ 30W IEEE802.3at CA サーバ証明書 クライアント証明書 ルート証明書 自己証明書 有効期限 PKCS#12 DHCP VLAN タグVLAN ポートVLAN トランク アソシエーション 電波調査 電波干渉による通信障害 チャネル設計 負荷分散 サプリカント オーセンティケータ 
