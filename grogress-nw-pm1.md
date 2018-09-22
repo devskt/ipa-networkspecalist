@@ -35,3 +35,10 @@
 問3 VPN アクティブ スタンバイ デフォルトゲートウェイ プライベートIPアドレス グローバルIPアドレス NAPT IP_in_IP IPsec トンネルモード トランスポートモード IKE_SA IPsec_SA MTU MSS BGP TCP/179 AS AS番号 BGPピア iBGP eBGP パスアトリビュート MED AS_PATH 経路広告 OSPF コスト エリア0 パッシブインタフェース ping ICMP echo_request echo_reply フラグメント(分割) リアセンブル(再結合) 事前共有鍵(Pre_shared_key) 静的経路制御 動的経路制御 Helloパケット
 
 ---------------------------------
+平成21年秋 午後Ⅰ
+
+問1 広域イーサ網 WAN VLAN タグVLAN(IEEE802.1Q) ポートVLAN 無線LAN AP ネイティブVLAN BPDU MACアドレステーブル IEEE802.11b 11Mbps/s IEEE802.3af(PoE) UTP ACK(確認応答) TCP LED 通信ループ Auto-MDI-X STP ESSID ミラーポート ブロードキャストフレーム ユニキャストフレーム IPアドレス固定割当 輻輳 TTL リンクアップ リンクダウン 閉塞 
+問2 ドメイン DNS プロキシ ASP Ajax SMTP(25) HTTP(80) POP3(110) IMAP(143) HTTPS(443) SUBMISSION(587) IMAPS(993) POP3S(995) SSLゲートウェイ 暗号化 CONNECT SSLセッション MXレコード FQDN 輻輳 NAPT JavaScript 
+問3 クラスA(10.0.0.0/8) クラスB(172.16.0.0/16) LB DNS セッション維持機能 ヘルスチェック機能 Cookie セッションID DNSラウンドロビン VIP ソースNAT ログ ping 送信元MACアドレス 宛先MACアドレス 送信元IPアドレ 宛先IPアドレス DSR ループバックインタフェース サブネットマスク デフォルトゲートウェイ Aレコード コネクション 3ウェイハンドシェイク X-Forwarded-For 
+
+---------------------------------
