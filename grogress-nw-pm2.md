@@ -48,3 +48,10 @@ SDN OpenFlow クラウド IaaS ISP FW LB NAT OFC OFS PacketIn PacketOut FlowMod 
 平成28年秋 午後Ⅱ 問2 60/100 113m01s
 
 Wi-Fi プロキシ IEEE802.11n IEEE802.11ac 2.4GHz 5GHz SSID ESSID ANY接続 SSID隠蔽 MACアドレスフィルタリング IEEE802.1X認証 WEP RC4 IV 共通鍵暗号方式 WPA TKIP WPA2 AES CCMP IEEE802.11i ストリーム暗号 ブロック暗号 エンタープライズモード パーソナルモード 事前共有鍵(PSK) 認証サーバ PMK(Pairwise Master Key) MACアドレス 事前認証 ハンドオーバ XOR 復号 EAP-TLS RADIUS ディジタル証明書 チャンネルボンディング MIMO(Multiple Input Multiple Output) WLC(無線LANコントローラ) 利用者認証 認証VLAN PoE(Power over Ethernet) 15.4W IEEE802.3af PoE+ 30W IEEE802.3at CA サーバ証明書 クライアント証明書 ルート証明書 自己証明書 有効期限 PKCS#12 DHCP VLAN タグVLAN ポートVLAN トランク アソシエーション 電波調査 電波干渉による通信障害 チャネル設計 負荷分散 サプリカント オーセンティケータ 
+
+---------------------------
+平成21年秋 午後Ⅱ 問1 117m40s
+
+無線LAN VLAN WEP 秘匿性 脆弱性 IEEE802.11i IEEE802.1X 認証VLAN IETF EAP EAP-TLS RADIUS 認証サーバ 電子証明書 相互認証 シーケンス PMK TK(Temporal Key) 4ウェイハンドシェイク アソシエーション PKI(公開鍵基盤) 認証局(CA) アプライアンス クライアント証明書 秘密鍵 ルート証明書(認証局証明書) 有効期限 CRL(失効リスト) ユーザ認証 トークン シンクライアント IEEE802.11a IEEE802.11b IEEE802.11g IEEE802.11n CSMA/CD 衝突検知 CSMA/CA 衝突回避 RTS/CTS方式 隠れ端末 RTS CTS ACK プリアンブル 1Mbps 11Mbps 54Mbps ESSID クライアント署名 回数制限 
+
+---------------------------
