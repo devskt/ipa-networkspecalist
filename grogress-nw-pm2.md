@@ -9,8 +9,7 @@ IEEE802.11 WPA2 RC4 SSID パケットフィルタリング STP VRRP
 ---------------------------
 平成25年秋 午後Ⅱ 問2 36/100 120m00s
 
-VXLAN SDN OpenFlow OFS OFC EAPOL-Start オーバレイ方式 TRILL IEEE802.1X ポートベース認証 MACベース認証 PacketIn PacketOut
-FlowMod
+VXLAN SDN OpenFlow OFS OFC EAPOL-Start オーバレイ方式 TRILL IEEE802.1X ポートベース認証 MACベース認証 PacketIn PacketOut FlowMod
 
 ---------------------------
 平成26年秋 午後Ⅱ 問2 64/100 121m17s
@@ -53,5 +52,11 @@ Wi-Fi プロキシ IEEE802.11n IEEE802.11ac 2.4GHz 5GHz SSID ESSID ANY接続 SSI
 平成21年秋 午後Ⅱ 問1 117m40s
 
 無線LAN VLAN WEP 秘匿性 脆弱性 IEEE802.11i IEEE802.1X 認証VLAN IETF EAP EAP-TLS RADIUS 認証サーバ 電子証明書 相互認証 シーケンス PMK TK(Temporal Key) 4ウェイハンドシェイク アソシエーション PKI(公開鍵基盤) 認証局(CA) アプライアンス クライアント証明書 秘密鍵 ルート証明書(認証局証明書) 有効期限 CRL(失効リスト) ユーザ認証 トークン シンクライアント IEEE802.11a IEEE802.11b IEEE802.11g IEEE802.11n CSMA/CD 衝突検知 CSMA/CA 衝突回避 RTS/CTS方式 隠れ端末 RTS CTS ACK プリアンブル 1Mbps 11Mbps 54Mbps ESSID クライアント署名 回数制限 
+
+---------------------------
+
+平成21年秋 午後Ⅱ 問2 120m00s
+
+BCM(Business Continuity Management) 事業継続性管理 BCP(Bussiness Continuity Plan) 事業継続性計画 ヒアリング 冗長化構成 VRRP STP バックアップ 稼働監視 ジョブ監視 アウトソーシング LED ITIL ITサービスマネジメント ISO/IEC20000 リモートKVMスイッチ 運用マニュアル 電源ユニット 電源タップ ブレーカ ホットスワップ コンティジェンシープラン リハーサル 作業手順 作業時間 移設体制 タイムチャート 監視サーバ ping ミラーポート パケットキャプチャ ARPキャッシュ ARP要求 ARP応答 ICMP_ECHO_REQUEST ICMP_ECHO_REPLY ブロードキャスト ユニキャスト メッセージフロー デフォルトゲートウェイ ループバックアドレス ロンゲストマッチ ログ取得 BPDU 一元管理 業務確認 代表ポート ブロッキングポート ルートポート ルートブリッジ ブリッジプライオリティ フォワード ループ構成 ブロードキャストストーム ポート閉塞 ケーブル結線 ケーブル抜線 
 
 ---------------------------
