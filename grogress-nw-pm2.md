@@ -69,3 +69,8 @@ SSL-VPN インターネット IP-VPN バックアップ 仮想化 SAN FC-SAN IP-
 ASP SaaS 仮想化 IP電話機 IP-PBX CTI ホスティング ハウジング ハイパーバイザ シンプロビジョニング 物理NIC 仮想NIC 仮想SW カスケード接続 チーミング リンクアグリゲーション リンクアップ リンクダウン ハッシュ値 ポートIDベース MACベース IPベース 冗長化 スタック接続 VRRP スパニングツリープロトコル(STP) ループ インターネットVPN グローバルIPアドレス IPsec-VPN トンネルモード トランスポートモード アグレッシブモード メインモード DHCP 動的IPアドレス 固定IPアドレス VPNルータ モバイルルータ NAT SAN iSCSI 監視システム 通信帯域 送信元IPアドレス 宛先IPアドレス MACアドレス LAN間接続 デフォルトゲートウェイ VPNパススルー IPsecパススルー NATトラバーサル 共有ディスク RAS 信頼性(リライアビリティ) 可用性(アベイラビリティ) 保守性(サービスアビリティ) 管理エージェント QoS 
 
 ---------------------------
+平成23年秋 午後Ⅱ 問1 113m20s
+
+IP-PBX シンクライアント 無線LAN GPS SSL サーバベース方式(SBC) 仮想PC方式 USBリダイレクト 呼損率 待ち行列理論 到着間隔の分布型/サービス時間の分布型/窓口数/待ち行列系の許容収容数 M/M/s/s 呼量 回線数 輻輳 自動音声応答 コールバック グローバルアドレス 認証サーバ モバイル端末接続装置 インターネットVPN IPsec-VPN SSL-VPN 443 HTTPS インタフェース VPNトンネル ルーティング アソシエーション デフォルトルート ゲートウェイ メトリック値 FC(Fibre Channel) FC-SAN FCoE(Fibre Channel over Ethernet) FCP SCSI パケットロス ビット誤り バッファ枯渇 フロー制御 ウィンドウサイズ MAC層 LAN PAUSEフレーム 優先度付バッファ制御 CNA(Converged Network Adapter) 10G HBA(Host Bus Adapter) NIC FC-SW FCoE-SW IETF(Internet Engineering Task Force) TRILL(Transparent Interconnection of Lots of Links) カプセル化 コスト SPF(Shortest Path First) 冗長化 負荷分散 スパニングツリープロトコル(STP) 拡張性 ソフトフォン デザリング RTP(Real-time Transport Protocol) H.323 SIP VoIP SFP+ コーデック 遅延 ジッタ アーラン ポートマッピング ポートフォワード 
+
+---------------------------
