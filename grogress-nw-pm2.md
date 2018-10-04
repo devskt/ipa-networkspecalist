@@ -74,3 +74,8 @@ ASP SaaS 仮想化 IP電話機 IP-PBX CTI ホスティング ハウジング ハ
 IP-PBX シンクライアント 無線LAN GPS SSL サーバベース方式(SBC) 仮想PC方式 USBリダイレクト 呼損率 待ち行列理論 到着間隔の分布型/サービス時間の分布型/窓口数/待ち行列系の許容収容数 M/M/s/s 呼量 回線数 輻輳 自動音声応答 コールバック グローバルアドレス 認証サーバ モバイル端末接続装置 インターネットVPN IPsec-VPN SSL-VPN 443 HTTPS インタフェース VPNトンネル ルーティング アソシエーション デフォルトルート ゲートウェイ メトリック値 FC(Fibre Channel) FC-SAN FCoE(Fibre Channel over Ethernet) FCP SCSI パケットロス ビット誤り バッファ枯渇 フロー制御 ウィンドウサイズ MAC層 LAN PAUSEフレーム 優先度付バッファ制御 CNA(Converged Network Adapter) 10G HBA(Host Bus Adapter) NIC FC-SW FCoE-SW IETF(Internet Engineering Task Force) TRILL(Transparent Interconnection of Lots of Links) カプセル化 コスト SPF(Shortest Path First) 冗長化 負荷分散 スパニングツリープロトコル(STP) 拡張性 ソフトフォン デザリング RTP(Real-time Transport Protocol) H.323 SIP VoIP SFP+ コーデック 遅延 ジッタ アーラン ポートマッピング ポートフォワード 
 
 ---------------------------
+平成23年秋 午後Ⅱ 問1 120m43s
+
+リバースプロキシ 広域イーサ 情報漏洩 ドメイン名 シンクライアント 画面転送型 SBC(サーバベース方式) 仮想PC方式 FCSW 仮想サーバ スタック SAN NAS リンクアグリゲーション チーミング 帯域拡大 冗長化 VRRP マスタルータ バックアップルータ デフォルトゲートウェイ 静的経路 動的経路 スタティックルーティング ダイナミックルーティング ループ STP VRRPグループID 仮想IPアドレス Priority preempt track(監視インタフェース) VRRPメッセージ マルチキャスト ワンタイムパスワード 時刻同期方式 トークン SSL-VPN DNS ゾーンファイル SOA serial refresh retry expire negative_cache NS MX POP3 IMAP4 メールボックス ASP メーリングリスト メール中継 メーラ VLAN
+
+---------------------------
