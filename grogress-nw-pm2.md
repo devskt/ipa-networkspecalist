@@ -5,9 +5,9 @@
 スタック VLAN 無線LAN 固定IPアドレス パケットフィルタリング 物理サーバ 仮想サーバ Active-Active ブリッジID ブリッジプライオリティ パスコスト値 リンク 仮想ルータ VRRP VRRPグループID 仮想IPアドレス Priority デフォルトゲートウェイ LANIEEE802.11 オープン認証 共有鍵認証 チャレンジレスポンス 傍受 盗聴 解読 漏洩 WEP IEEE802.11i 事前認証鍵 PMKキャッシュ WPA2 ローミング アソシエーション IEEE802.1X認証 Radius PEAP EAP-TLS クラインと証明書 サーバ証明書 WLC RC4 SSID STP コスト チーミング リンクアグリゲーション GARP ARPキャッシュ プロキシARP モバイルIP 気付アドレス HA FA オーセンティケータ カプセル化 電波干渉 電波強度 チャンネル設計 マスタルータ バックアップルータ ルートブリッジ 代表ポート ルートポート ブロッキングポート マルチキャストアドレス(224.0.0.0/4) 限定的ブロードキャストアドレス(255.255.255.255) 指定ブロードキャストアドレス Advertisement サブネット サイトサーベイ AP設計 ping FTP ポートID 負荷分散 冗長化 帯域拡大 
 
 ---------------------------
-平成25年秋 午後Ⅱ 問2 36/100 120m00s
+平成25年秋 午後Ⅱ 問2 36/100 120m00s 57/100 88m30s
 
-VXLAN SDN OpenFlow OFS OFC EAPOL-Start オーバレイ方式 TRILL IEEE802.1X ポートベース認証 MACベース認証 PacketIn PacketOut FlowMod
+レイヤ2スイッチ レイヤ3スイッチ ルータ アドレス重複 仮想SW カプセル化 VXLAN SDN OpenFlow フロー Ruleフィールド Actionフィールド Statisticsフィールド OFS OFC LLDP テナントID ホップバイホップ方式 EAPOL-Start オーバレイ方式 TRILL(Transparent Interconnection of Lots of Links) SPF(最短経路選択) IEEE802.1X ポートベース認証 MACベース認証 PacketIn PacketOut FlowMod ブロードキャスト ユニキャスト ARP要求 ARP応答 ARPテーブル サプリカント オーセンティケータ 認証サーバ EAPOL-Start EAPOL-Request EAPOL-Response EAP-Success EAPフレーム リンクアップ 透過転送機能 DHCPDISCOVER DHCPOFFER DHCPREQUEST DHCPACK ARP_Request ARP_Reply フラグメンテーション 
 
 ---------------------------
 平成26年秋 午後Ⅱ 問2 64/100 121m17s
