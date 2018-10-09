@@ -10,9 +10,9 @@
 レイヤ2スイッチ レイヤ3スイッチ ルータ アドレス重複 仮想SW カプセル化 VXLAN SDN OpenFlow フロー Ruleフィールド Actionフィールド Statisticsフィールド OFS OFC LLDP テナントID ホップバイホップ方式 EAPOL-Start オーバレイ方式 TRILL(Transparent Interconnection of Lots of Links) SPF(最短経路選択) IEEE802.1X ポートベース認証 MACベース認証 PacketIn PacketOut FlowMod ブロードキャスト ユニキャスト ARP要求 ARP応答 ARPテーブル サプリカント オーセンティケータ 認証サーバ EAPOL-Start EAPOL-Request EAPOL-Response EAP-Success EAPフレーム リンクアップ 透過転送機能 DHCPDISCOVER DHCPOFFER DHCPREQUEST DHCPACK ARP_Request ARP_Reply フラグメンテーション 
 
 ---------------------------
-平成26年秋 午後Ⅱ 問2 64/100 121m17s
+平成26年秋 午後Ⅱ 問1 64/100 121m17s 83/100 75m00s
 
-HTTP HTTPS URL コンテンツフィルタリング MTA MUA connectメソッド 標的型メール SPF SPFレコード SSLセッション サーバ証明書 ルート証明書 プリマスタシークレット 中間者攻撃 パケットフィルタリング INフィルタ OUTフィルタ 経路集約 ICMP TCPコネクション プロキシサーバ 利用者認証 バックドアの発見(C&Cサーバ接続時に認証失敗ログ) ファイル・URLは開かない 送信元確認 担当者に報告 全社共有 
+HTTP HTTPS SMTP IPアドレス ドメイン URL コンテンツフィルタリング MTA MUA トンネリング connectメソッド 標的型メール SPF MXレコード SPFレコード TXTレコード SSLセッション サーバ証明書 ルート証明書 認証局 プリマスタシークレット 暗号 復号 中間者攻撃 パケットフィルタリング INフィルタ OUTフィルタ 経路集約 ICMP TCPコネクション メールサーバ プロキシサーバ 利用者認証 バックドアの発見(C&Cサーバ接続時に認証失敗ログ) ファイル・URLは開かない 送信元確認 担当者に報告 全社共有 マルウェア 出口対策 入口対策 バックドア ソーシャルエンジニアリング なりすまし 疎通テスト ICMP ログ 
 
 ---------------------------
 平成27年秋 午後Ⅱ 問1 56/100 116m48s
