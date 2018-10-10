@@ -15,6 +15,11 @@
 HTTP HTTPS SMTP IPアドレス ドメイン URL コンテンツフィルタリング MTA MUA トンネリング connectメソッド 標的型メール SPF MXレコード SPFレコード TXTレコード SSLセッション サーバ証明書 ルート証明書 認証局 プリマスタシークレット 暗号 復号 中間者攻撃 パケットフィルタリング INフィルタ OUTフィルタ 経路集約 ICMP TCPコネクション メールサーバ プロキシサーバ 利用者認証 バックドアの発見(C&Cサーバ接続時に認証失敗ログ) ファイル・URLは開かない 送信元確認 担当者に報告 全社共有 マルウェア 出口対策 入口対策 バックドア ソーシャルエンジニアリング なりすまし 疎通テスト ICMP ログ 
 
 ---------------------------
+平成26年秋 午後Ⅱ 問2 59/100 96m58s
+
+VoIP ロガー IP-PBX マルチテナント機能 VPN IPsec-VPN SSL-VPN VoIP-GW SIP UA SDP ネゴシエーション チャット RTP RTCP UDP URI IPアドレス セッション テキスト形式 B2BUA INVITE Trying Ringing ACK BYE OK SBC NAT パッシブ方式 アクティブ方式 ミラーポート プロミスキャスモード NIC VLAN MACアドレス ポート番号 トランクポート アクセスポート MACアドレス学習機能 フィルタリングルール 500 IKE 50 ESP 443 HTTPS トークン L2トンネル 冗長化 仮想アプライアンス 呼制御 
+
+---------------------------
 平成27年秋 午後Ⅱ 問1 56/100 116m48s
 
 LB FW Active-standby リンクアグリケーション チーミング デフォルトゲートウェイ 仮想IPアドレス NAT HTTP CoAP UDP HTTPキャッシュ HTTPレスポンス HTTPヘッダ If-Modified-Since Last-Modified GETリクエスト フォワードプロキシ リバースプロキシ FQDN ZigBee IEEE802.3 IEEE802.15.4 ターンアラウンドタイム ブレードサーバ TCPコネクション 同時コネクション数 パイプライン HTTP/1.1 
