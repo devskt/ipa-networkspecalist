@@ -20,9 +20,9 @@ HTTP HTTPS SMTP IPアドレス ドメイン URL コンテンツフィルタリ�
 VoIP ロガー IP-PBX マルチテナント機能 VPN IPsec-VPN SSL-VPN VoIP-GW SIP UA SDP ネゴシエーション チャット RTP RTCP UDP URI IPアドレス セッション テキスト形式 B2BUA INVITE Trying Ringing ACK BYE OK SBC NAT パッシブ方式 アクティブ方式 ミラーポート プロミスキャスモード NIC VLAN MACアドレス ポート番号 トランクポート アクセスポート MACアドレス学習機能 フィルタリングルール 500 IKE 50 ESP 443 HTTPS トークン L2トンネル 冗長化 仮想アプライアンス 呼制御 
 
 ---------------------------
-平成27年秋 午後Ⅱ 問1 56/100 116m48s
+平成27年秋 午後Ⅱ 問1 56/100 65/100 116m48s 105m35s
 
-LB FW Active-standby リンクアグリケーション チーミング デフォルトゲートウェイ 仮想IPアドレス NAT HTTP CoAP UDP HTTPキャッシュ HTTPレスポンス HTTPヘッダ If-Modified-Since Last-Modified GETリクエスト フォワードプロキシ リバースプロキシ FQDN ZigBee IEEE802.3 IEEE802.15.4 ターンアラウンドタイム ブレードサーバ TCPコネクション 同時コネクション数 パイプライン HTTP/1.1 
+LB FW Active-standby リンクアグリケーション チーミング デフォルトゲートウェイ 仮想IPアドレス NAT HTTP CoAP UDP HTTPキャッシュ HTTPレスポンス HTTPヘッダ If-Modified-Since Last-Modified connectionフィールド keep-alive close GETリクエスト フォワードプロキシ リバースプロキシ FQDN ZigBee IEEE802.3 IEEE802.15.4 ターンアラウンドタイム ブレードサーバ TCPコネクション 同時コネクション数 パイプライン HTTP/1.1 クローズ接続オプション パイプライン化 IPヘッダ UDPヘッダ 
 
 ---------------------------
 平成27年秋 午後Ⅱ 問2 54/100 90m00s
