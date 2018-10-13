@@ -25,9 +25,9 @@ VoIP ロガー IP-PBX マルチテナント機能 VPN IPsec-VPN SSL-VPN VoIP-GW 
 LB FW Active-standby リンクアグリケーション チーミング デフォルトゲートウェイ 仮想IPアドレス NAT HTTP CoAP UDP HTTPキャッシュ HTTPレスポンス HTTPヘッダ If-Modified-Since Last-Modified connectionフィールド keep-alive close GETリクエスト フォワードプロキシ リバースプロキシ FQDN ZigBee IEEE802.3 IEEE802.15.4 ターンアラウンドタイム ブレードサーバ TCPコネクション 同時コネクション数 パイプライン HTTP/1.1 クローズ接続オプション パイプライン化 IPヘッダ UDPヘッダ 
 
 ---------------------------
-平成27年秋 午後Ⅱ 問2 54/100 90m00s
+平成27年秋 午後Ⅱ 問2 54/100 90m00s 69/100 65m18s
 
-IPv4 IPアドレス枯渇 キャリアグレードNAT(CGN) NAT444 グローバルIPアドレス シェアードアドレス プライベートIPアドレス NAT NAPT TCP UDP ポート数(16ビット) VPN IPsec AH(IP50) ESP(IP51) IKE(UDP500) トランスポートモード トンネルモード ISAKMP IPsecNATトラバーサル ESPヘッダ ESPトレーラ ESP認証データ IEEE802.1Q VLAN VLAN数(12ビット-2) オーバレイネットワーク VXLAN マルチキャスト クラスD フラッディング マルチキャストIPアドレス マルチキャストMACアドレス IGMP IGMPjoin IGMPleave IGMPスヌーピング MACアドレステーブル VNI(24ビット) VTEP FTP アクティブモード パッシブモード 
+IPv4 IPアドレス枯渇 キャリアグレードNAT(CGN) NAT444 グローバルIPアドレス シェアードアドレス プライベートIPアドレス NAT NAPT TCP UDP ポート数(16ビット) VPN IPsec AH(IP50) ESP(IP51) IKE(UDP500) トランスポートモード トンネルモード ISAKMP IPsecNATトラバーサル ESPヘッダ ESPトレーラ ESP認証データ IEEE802.1Q VLAN VLAN数(12ビット-2) オーバレイネットワーク VXLAN マルチキャスト クラスD 224.0.0.0-239.255.255.255 フラッディング マルチキャストIPアドレス マルチキャストMACアドレス IGMP IGMPjoin IGMPleave IGMPスヌーピング MACアドレステーブル VNI(24ビット) VTEP FTP アクティブモード パッシブモード ARP ブロードキャスト ユニキャスト MACアドレス学習
 
 ---------------------------
 平成28年秋 午後Ⅱ 問1 76/100 120m24s
