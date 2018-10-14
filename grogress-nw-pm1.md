@@ -23,9 +23,9 @@
 ---------------------------------
 平成28年秋 午後Ⅰ
 
-問1 36/50 30m32s DNS A MX TXT SMTP SMTPS SMTP-AUTH サブミッションポート POP3 POP3S スパムメール 踏み台 OP25B 25 110 587 995 465 NAPT STARTTLS STLS SPF FQDN  
-問2 24/50 25m14s Wi-Fi WEP RC4 WPA TKIP WPA2 AES 事前共有鍵 pre-shared-key LTE APN SIM NAPT CONNECT SSIDステルス SSID MACアドレス 傍受 DHCP DNS プロキシ プロキシ認証 HTTP HTTPS Request-URI 接続先ホスト名 接続先ポート番号
-問3 12/50 45m00s DNS プライマリ セカンダリ LDAP FW メールサーバ SMTP メールゲートウェイ ステートフルインスペクション 公開ゾーン情報 非公開ゾーン情報 ゾーン転送 ゾーン転送要求 更新通知(NOTIFY) DNSラウンドロビン VRRP VIP 冗長化 負荷分散 
+問1 36/50 30m32s 45/50 20m00s DNS 権威DNSサーバ A MX TXT SMTP SMTPS SMTP-AUTH サブミッションポート POP3 POP3S スパムメール 踏み台 OP25B 25 110 587 995 465 NAPT STARTTLS STLS SPF FQDN アクセスリスト 送信ドメイン認証 HELO EHLO MAIL_FROM RCPT_TO DATA QUIT 
+問2 24/50 25m14s 39/50 29m16s Wi-Fi WEP RC4 WPA TKIP WPA2 AES 事前共有鍵 pre-shared-key LTE APN SIM NAPT CONNECT SSIDステルス SSID MACアドレス 傍受 DHCP DNS プロキシ プロキシ認証 HTTP HTTPS Request-URI 接続先ホスト名 接続先ポート番号 L2TP_over_IPsec 利用者ID トークン ログ 傍受
+問3 12/50 45m00s 31/50 42m50s DNS プライマリ セカンダリ LDAP FW メールサーバ SMTP メールゲートウェイ ステートフルインスペクション 公開ゾーン情報 非公開ゾーン情報 ゾーン転送 ゾーン転送要求 更新通知(NOTIFY) DNSラウンドロビン VRRP VIP 冗長化 負荷分散 VRRP 優先度 移行 DNSキャッシュ 
 
 ---------------------------------
 平成28年秋 午後Ⅰ
