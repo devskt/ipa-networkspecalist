@@ -30,7 +30,7 @@ LB FW Active-standby リンクアグリケーション チーミング デフォ
 IPv4 IPアドレス枯渇 キャリアグレードNAT(CGN) NAT444 グローバルIPアドレス シェアードアドレス プライベートIPアドレス NAT NAPT TCP UDP ポート数(16ビット) VPN IPsec AH(IP50) ESP(IP51) IKE(UDP500) トランスポートモード トンネルモード ISAKMP IPsecNATトラバーサル ESPヘッダ ESPトレーラ ESP認証データ IEEE802.1Q VLAN VLAN数(12ビット-2) オーバレイネットワーク VXLAN マルチキャスト クラスD 224.0.0.0-239.255.255.255 フラッディング マルチキャストIPアドレス マルチキャストMACアドレス IGMP IGMPjoin IGMPleave IGMPスヌーピング MACアドレステーブル VNI(24ビット) VTEP FTP アクティブモード パッシブモード ARP ブロードキャスト ユニキャスト MACアドレス学習
 
 ---------------------------
-平成28年秋 午後Ⅱ 問1 76/100 120m24s
+平成28年秋 午後Ⅱ 問1 76/100 120m24s 71/100 76m50s
 
 HTTP HTTPS WebSocket IP-PBX マルチホーミング イントラ プライベートIPアドレス グローバルIPアドレス NAT NAPT 送信元IPアドレス 送信元ポート番号 ポート数(65536) ウェルノウンポート(Well-Known) FW フィルタリング 名前解決 ドメイン権限 DNS DNSラウンドロビン スケールアウト ゾーンファイル DNSクエリ LB STUN WebRTC W3C IETF ホールパンチ SDP SIP B2BUA FQDN Aレコード 切り戻し 
 
