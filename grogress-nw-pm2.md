@@ -37,7 +37,7 @@ HTTP HTTPS WebSocket IP-PBX マルチホーミング イントラ プライベ�
 https://gist.github.com/voluntas/975bfa230e513d146965
 
 ---------------------------
-平成28年秋 午後Ⅱ 問2 51/100 118m50s
+平成28年秋 午後Ⅱ 問2 51/100 118m50s 72/100 81m35s
 
 WAN回線 広域イーサネット プロキシ インターネットVPN OSPF IPsec IKE ネゴシエーション SA SPI SP(セキュリティポリシー) BYPASS DISCARD PROTECT セレクタ IKEフェーズ1 IKEフェーズ2 ISAKMP ISAKMP-SA メインモード アグレッシブモード トンネルモード トランスポートモード Ipsec-SA カプセル化 リンクステート情報(LSA) GRE(L3:1436) L2TP(L2:1414) IPブロードキャスト IPマルチキャスト 経路情報 MTU(1500) PPPフレーム LAC LNS PPPoE GRE-over-IPsec L2TP-over-IPsec MSS 専用線 VRRP コスト値 IPフラグメンテーション(断片化) Rekey ESPヘッダ ESPトレーラ ESP認証データ 改ざん ジャンボフレーム VLAN 仮想IPアドレス マスタルータ
 
