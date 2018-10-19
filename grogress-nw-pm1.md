@@ -32,7 +32,7 @@
 
 問1 14/50 44m50s 31/50 25m03s SSL-VPN SSL TLS MD5 SHA-1 SHA-256 TLS1.0 TLS1.1 TLS1.2 Client_Hello Server_Hello 暗号アルゴリズム ハッシュアルゴリズム リーバスプロキシ ポートフォワード L2フォワーディング アクセスリスト パケットフィルタリング vNiC 認証 鍵交換 暗号化通信 メッセージ認証 RSA 公開鍵暗号方式 サーバ証明書 AES 共通鍵暗号方式 暗号化 復号化 改ざん HTTPS(443) 
 問2 37/50 41m13s 40/50 24m21s VDI アクセス回線 広域イーサネット 仮想SW SSL可視化装置 標的型攻撃対策装置 マルウェア C&Cサーバ 帯域制御装置 ポリシング シェーピング UTM シンクライアント バーストトラフィック 
-問3 VPN アクティブ スタンバイ デフォルトゲートウェイ プライベートIPアドレス グローバルIPアドレス NAPT IP_in_IP IPsec トンネルモード トランスポートモード IKE_SA IPsec_SA MTU MSS BGP TCP/179 AS AS番号 BGPピア iBGP eBGP パスアトリビュート MED AS_PATH 経路広告 OSPF コスト エリア0 パッシブインタフェース ping ICMP echo_request echo_reply フラグメント(分割) リアセンブル(再結合) 事前共有鍵(Pre_shared_key) 静的経路制御 動的経路制御 Helloパケット
+問3 24/50 36m47s 30/50 20m50s VPN アクティブ スタンバイ デフォルトゲートウェイ プライベートIPアドレス グローバルIPアドレス NAPT IP_in_IP IPsec トンネルモード トランスポートモード IKE_SA IPsec_SA MTU MSS BGP TCP/179 AS AS番号 BGPピア iBGP eBGP パスアトリビュート MED AS_PATH 経路広告 OSPF コスト エリア0 パッシブインタフェース ping ICMP echo_request echo_reply フラグメント(分割) リアセンブル(再結合) 事前共有鍵(Pre_shared_key) 静的経路制御 動的経路制御 Helloパケット
 
 ---------------------------------
 平成21年秋 午後Ⅰ
